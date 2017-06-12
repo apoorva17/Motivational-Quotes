@@ -1,7 +1,7 @@
 # Motivational Quotes
 
 <b> Intro </b>
-Ever needed some quick motivation or inspiration? Motivational Quotes is a Chrome Extension which generates random quotes to do just that whenever you click on it!
+<p> Ever needed some quick motivation or inspiration? Motivational Quotes is a Chrome Extension which generates random quotes to do just that whenever you click on it! </p>
 
 <b> Installation </b>
 <li> Download the extension as a .zip by selecting Clone or download > Download ZIP and extract the files
